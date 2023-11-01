@@ -1,4 +1,8 @@
 # Changelog since v1.0.7
+- Prettified Code! 
+- fix 
+- Prettified Code! 
+- Fix database config 
 - Update config.yaml 
 - Update config.yaml 
 - Update config.yaml 
