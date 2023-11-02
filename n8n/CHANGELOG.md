@@ -1,5 +1,6 @@
 # Changelog since v1.0.7
 - refactored nginx and n9n config variables 
+- refactored nginx and n9n config variables 
 - fix port number 
 - changes 
 - Prettified Code! 
