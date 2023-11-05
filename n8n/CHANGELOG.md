@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- Atualizar o config.gtpl 
 - refactored nginx and n9n config variables 
 - refactored nginx and n9n config variables 
 - fix port number 
