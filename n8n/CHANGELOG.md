@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- remove nginx and ingress 
 - remove dummy path 
 - fix try 
 - Atualizar o config.gtpl 
