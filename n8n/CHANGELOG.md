@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- fix try 
 - Atualizar o config.gtpl 
 - refactored nginx and n9n config variables 
 - refactored nginx and n9n config variables 
