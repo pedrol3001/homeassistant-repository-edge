@@ -2,6 +2,7 @@
 - remove ssl keys from config json and fixed config typo 
 - remove ssl keys from config json and fixed config typo 
 - remove ssl keys from config json and fixed config typo 
+- remove ssl keys from config json and fixed config typo 
 - remove nginx and ingress 
 - remove dummy path 
 - fix try 
