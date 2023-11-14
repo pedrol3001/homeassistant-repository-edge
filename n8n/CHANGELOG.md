@@ -1,4 +1,6 @@
 # Changelog since v1.0.7
+- reorder public url config 
+- reorder public url config 
 - fix ssk key 
 - remove ssl keys from config json and fixed config typo 
 - remove ssl keys from config json and fixed config typo 
