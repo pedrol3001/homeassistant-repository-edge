@@ -2,6 +2,7 @@
 - fix typo 
 - fix typo 
 - fix typo 
+- fix typo 
 - reorder public url config 
 - reorder public url config 
 - reorder public url config 
