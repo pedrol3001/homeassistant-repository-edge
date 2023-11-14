@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- fix ssk key 
 - remove ssl keys from config json and fixed config typo 
 - remove ssl keys from config json and fixed config typo 
 - remove ssl keys from config json and fixed config typo 
