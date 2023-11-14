@@ -1,5 +1,7 @@
 # Changelog since v1.0.7
 - fix typo 
+- fix typo 
+- fix typo 
 - reorder public url config 
 - reorder public url config 
 - reorder public url config 
