@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- fix n8n version 
 - fix 
 - fix typo 
 - fix typo 
