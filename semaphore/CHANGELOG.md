@@ -1,1 +1,1 @@
-- fix upstream port
+- fix nginx wait
