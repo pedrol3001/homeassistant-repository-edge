@@ -1,5 +1,5 @@
 name: N8N
-version: a314259
+version: '2609965'
 slug: n8n
 description: N8N add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-n8n
@@ -21,7 +21,7 @@ homeassistant_api: true
 host_network: true
 auth_api: true
 map:
-- homeassistant_config:rw
+- addon_config:rw
 - ssl
 options:
   log_level: info

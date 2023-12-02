@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- migrate config folder 
 - small refactor 
 - fix n8n version 
 - initial commit 
