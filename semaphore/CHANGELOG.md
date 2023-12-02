@@ -1,1 +1,1 @@
-- fix config
+- reduce container porivileges
