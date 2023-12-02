@@ -1,4 +1,5 @@
 # Changelog since v1.0.7
+- small refactor 
 - fix n8n version 
 - initial commit 
 - fix n8n version 
