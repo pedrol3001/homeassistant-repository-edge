@@ -1,1 +1,1 @@
-- reduce container porivileges
+- nginx proxy to use ssl
