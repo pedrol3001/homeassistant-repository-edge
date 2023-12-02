@@ -1,4 +1,6 @@
 # Changelog since v1.0.7
+- reduce container porivileges 
+- reduce container porivileges 
 - migrate config folder 
 - small refactor 
 - fix n8n version 
