@@ -1,1 +1,1 @@
-- migrate config folder
+- fix config
