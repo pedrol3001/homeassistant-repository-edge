@@ -1,1 +1,1 @@
-- nginx proxy to use ssl
+- set shell
