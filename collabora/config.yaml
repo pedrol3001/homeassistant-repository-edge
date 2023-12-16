@@ -1,5 +1,5 @@
 name: Collabora
-version: d3ca268
+version: a38080f
 slug: collabora
 description: Collabora add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-collabora
@@ -12,8 +12,7 @@ ports:
   3113/tcp: 3113
 ports_description:
   3113/tcp: Web Interface
-privileged:
-- SYS_ADMIN
+full_access: true
 map:
 - addon_config:rw
 - ssl
