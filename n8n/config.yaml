@@ -1,5 +1,5 @@
 name: N8N
-version: eec6bbb
+version: 27f0f55
 slug: n8n
 description: N8N add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-n8n
@@ -12,9 +12,9 @@ arch:
 - armv7
 - i386
 ports:
-  80/tcp: 3111
+  3011/tcp: 3011
 ports_description:
-  80/tcp: Web Interface
+  3011/tcp: Web Interface
 hassio_api: true
 host_network: true
 map:
