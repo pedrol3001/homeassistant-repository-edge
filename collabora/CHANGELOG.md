@@ -1,1 +1,1 @@
-- Atualizar o run
+- try fix permissions
