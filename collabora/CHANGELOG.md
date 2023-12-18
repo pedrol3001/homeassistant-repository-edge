@@ -1,1 +1,1 @@
-- fix
+- set public url config
