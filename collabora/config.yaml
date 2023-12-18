@@ -1,5 +1,5 @@
 name: Collabora
-version: d06261c
+version: 918a9ad
 slug: collabora
 description: Collabora add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-collabora
@@ -16,11 +16,9 @@ map:
 - addon_config:rw
 - ssl
 options:
-  log_level: info
   ssl: false
   certfile: fullchain.pem
   keyfile: privkey.pem
-  public_url: ''
 schema:
   ssl: bool
   certfile: str
