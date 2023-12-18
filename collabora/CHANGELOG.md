@@ -1,1 +1,1 @@
-- set public url config
+- config ssl and no ssl
