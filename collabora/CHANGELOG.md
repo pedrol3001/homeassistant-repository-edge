@@ -1,1 +1,1 @@
-- try fix permissions
+- set public url config
