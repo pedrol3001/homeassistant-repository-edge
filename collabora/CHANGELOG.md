@@ -1,1 +1,1 @@
-- cange cofig params order
+- update readme
