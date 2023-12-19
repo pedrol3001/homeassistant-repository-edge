@@ -1,1 +1,1 @@
-- set debu enviroment variable
+- update readme
