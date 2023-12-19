@@ -1,1 +1,1 @@
-- initial commit
+- set debu enviroment variable
