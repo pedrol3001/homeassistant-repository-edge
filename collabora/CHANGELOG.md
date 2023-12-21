@@ -1,1 +1,1 @@
-- update readme
+- remove useless config folder access
