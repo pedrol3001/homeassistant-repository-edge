@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- remove less used archs 
 - config reorder 
 - fix 
 - fix 
