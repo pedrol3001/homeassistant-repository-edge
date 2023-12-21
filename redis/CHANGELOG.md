@@ -1,1 +1,1 @@
-- ser redis versino
+- ser redis port, ssl and password cofniguration
