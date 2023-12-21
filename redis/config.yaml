@@ -1,5 +1,5 @@
 name: Redis
-version: 1f1a244
+version: bffc9b0
 slug: redis
 description: Redis add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-redis
