@@ -1,5 +1,5 @@
 name: Semaphore
-version: d2d41e8
+version: 9c49f6b
 slug: semaphore
 description: Semaphore add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-semaphore
@@ -15,6 +15,7 @@ ports_description:
 hassio_api: true
 host_network: true
 map:
+- addon_config:rw
 - share:rw
 - ssl
 options:
