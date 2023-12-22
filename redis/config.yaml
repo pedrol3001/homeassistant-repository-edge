@@ -1,5 +1,5 @@
 name: Redis
-version: 5fc338f
+version: 84fb6e2
 slug: redis
 description: Redis add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-redis
@@ -13,7 +13,6 @@ ports:
 ports_description:
   6379/tcp: Redis port
 map:
-- addon_config:rw
 - ssl
 options:
   ssl: false

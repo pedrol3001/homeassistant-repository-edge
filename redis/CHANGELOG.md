@@ -1,1 +1,1 @@
-- ser redis port, ssl and password cofniguration
+- restructure folders
