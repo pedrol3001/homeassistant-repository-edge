@@ -1,4 +1,6 @@
 # Changelog since v1.0.0
+- Prettified Code! 
+- restructure folders 
 - restructure folders 
 - restructure folders 
 - restructure folders 
