@@ -1,5 +1,6 @@
 # Changelog since v1.0.0
 - restructure folders 
+- restructure folders 
 - remove less used archs 
 - config reorder 
 - fix 
