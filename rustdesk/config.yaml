@@ -1,5 +1,5 @@
 name: Rustdesk
-version: 6aab8ba
+version: a280ec6
 slug: rustdesk
 description: Rustdesk add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-rustdesk
@@ -22,8 +22,6 @@ ports_description:
   21117/tcp: Relay services
   21118/tcp: Beb clients
   21119/tcp: Web client
-map:
-- addon_config:rw
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
 image: ghcr.io/pedrol3001/rustdesk/{arch}
