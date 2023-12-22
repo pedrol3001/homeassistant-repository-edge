@@ -1,1 +1,1 @@
-- remove useless config folder access
+- restructure folders
