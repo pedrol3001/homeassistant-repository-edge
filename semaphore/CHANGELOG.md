@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- restructure folders 
+- restructure folders 
+- Merge branch 'main' of github.com:pedrol3001/addon-semaphore 
+- restructure folders 
 - Prettified Code! 
 - restructure folders 
 - update readme 
