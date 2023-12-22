@@ -3,6 +3,7 @@
 - restructure folders 
 - restructure folders 
 - restructure folders 
+- restructure folders 
 - update readme 
 - cofig proxy websocket 
 - make available without port set 
