@@ -1,1 +1,1 @@
-- remove user creating for testing
+- fix bash error
