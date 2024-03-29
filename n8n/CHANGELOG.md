@@ -1,4 +1,7 @@
 # Changelog since v1.0.0
+- upgrade n8n 
+- upgrade n8n 
+- upgrade n8n 
 - restructure folders 
 - restructure folders 
 - restructure folders 
