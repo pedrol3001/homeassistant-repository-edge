@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- remove non used translation 
 - upgrade n8n 
 - upgrade n8n 
 - upgrade n8n 
