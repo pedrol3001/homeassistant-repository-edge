@@ -1,0 +1,33 @@
+name: K3S
+version: 18cee09
+slug: k3s
+description: K3S add-on by Community Home Assistant Add-ons
+url: https://github.com/pedrol3001/addon-k3s
+codenotary: contact@pedrol.me
+privileged:
+- SYS_ADMIN
+init: false
+arch:
+- aarch64
+- amd64
+ports:
+  2379/tcp: 2379
+  2380/tcp: 2380
+  6443/tcp: 6443
+  8472/udp: 8472
+  10250/tcp: 10250
+  51820/udp: 51820
+  51821/udp: 51821
+  5001/tcp: 5001
+ports_description:
+  2379/tcp: Servers - Required only for HA with embedded etcd
+  2380/tcp: Servers - Required only for HA with embedded etcd
+  6443/tcp: K3s supervisor and Kubernetes API Server
+  8472/udp: Required only for Flannel VXLAN
+  10250/tcp: Kubelet metrics
+  51820/udp: Required only for Flannel Wireguard with IPv4
+  51821/udp: Required only for Flannel Wireguard with IPv6
+  5001/tcp: Required only for embedded distributed registry (Spegel)
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+image: ghcr.io/pedrol3001/k3s/{arch}
