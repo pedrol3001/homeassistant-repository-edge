@@ -1,10 +1,12 @@
 name: K3S
-version: c0d85dc
+version: 27b7dab
 slug: k3s
 description: K3S add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-k3s
 codenotary: contact@pedrol.me
 init: false
+map:
+- addon_config:rw
 arch:
 - aarch64
 - amd64
@@ -27,5 +29,13 @@ ports_description:
   51821/udp: Required only for Flannel Wireguard with IPv6
   5001/tcp: Required only for embedded distributed registry (Spegel)
 schema:
+  db_type: list(sqlite|postgresdb|mysqldb)
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  db_name: str?
+  db_host: str?
+  db_port: port?
+  db_user: str?
+  db_password: str?
+options:
+  db_type: sqlite
 image: ghcr.io/pedrol3001/k3s/{arch}
