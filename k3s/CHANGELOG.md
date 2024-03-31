@@ -1,1 +1,1 @@
-- change config file location
+- enable full access and persist data dir
