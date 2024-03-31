@@ -1,1 +1,1 @@
-- make token chnageable
+- make token changeable
