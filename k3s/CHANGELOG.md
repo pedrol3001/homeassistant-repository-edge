@@ -1,1 +1,1 @@
-- fix shell notations
+- change config file location
