@@ -1,1 +1,1 @@
-- download just the binary
+- user docker env for pods instead of containerd
