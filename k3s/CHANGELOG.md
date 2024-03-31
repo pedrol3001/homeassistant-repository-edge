@@ -1,1 +1,1 @@
-- enable full access and persist data dir
+- persist data dir
