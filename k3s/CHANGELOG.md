@@ -1,1 +1,1 @@
-- make token changeable
+- remove configs
