@@ -1,1 +1,1 @@
-- user docker env for pods instead of containerd
+- give sys asmin
