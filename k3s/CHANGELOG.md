@@ -1,1 +1,1 @@
-- remove configs
+- download just the binary
