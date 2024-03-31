@@ -1,5 +1,5 @@
 name: K3S
-version: 1aa2f64
+version: 5c2bf9f
 slug: k3s
 description: K3S add-on by Community Home Assistant Add-ons
 url: https://github.com/pedrol3001/addon-k3s
